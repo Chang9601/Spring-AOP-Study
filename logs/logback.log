@@ -1,0 +1,4 @@
+[2022-05-18 10:13:22:1213051][http-nio-8080-exec-1] WARN  com.cos.aop.config.BindingAdvice - com.cos.aop.web.UserController.save() → 필드: username, 메시지: 아이디 필수
+[2022-05-18 10:40:01:2811612][http-nio-8080-exec-2] WARN  com.cos.aop.config.BindingAdvice - com.cos.aop.web.UserController.save() → 필드: username, 메시지: 아이디 필수
+[2022-05-18 10:42:53:2983506][http-nio-8080-exec-3] WARN  com.cos.aop.config.BindingAdvice - com.cos.aop.web.UserController.save() → 필드: username, 메시지: 아이디 필수
+[2022-05-18 10:44:05:3056008][http-nio-8080-exec-2] WARN  com.cos.aop.config.BindingAdvice - com.cos.aop.web.UserController.save() → 필드: username, 메시지: 아이디 필수
